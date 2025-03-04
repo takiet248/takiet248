@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Anh Kiet Tran
 
-🚀 Data Analyst | Data Engineer
+🚀 Data Analyst | Aspiring Data Engineer | Computer Science Graduate  
 
 ## 🔥 About Me
-- 💡 Working with **PowerBI & SQL & Excel & Jupyter NoteBook**  
-- 📊 Experienced in **Data Pipelines & Analytics**  
-- 🌱 Learning **Airflow, Spark, DBT, and Kafka **  
+- 🎓 Studied **Computer Science** at **University of Science**  
+- 💡 Currently a **Data Analyst**, learning to become a **Data Engineer**  
+- 🚀 Exploring **Airflow, PySpark, DBT, and Kafka**  
+- 📊 Experienced in **SQL, Python, and Data Visualization**  
 - 📫 Contact me: [takiet248@gmail](mailto:takiet248@gmai)  
 
 ## ⚡ Tech Stack
