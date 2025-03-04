@@ -7,7 +7,7 @@
 - 💡 Currently a **Data Analyst**, learning to become a **Data Engineer**  
 - 🚀 Exploring **Airflow, PySpark, DBT, and Kafka**  
 - 📊 Experienced in **SQL, Python, and Data Visualization**  
-- 📫 Contact me: [takiet248@gmail](mailto:takiet248@gmai)  
+- 📫 Contact me: [takiet248@gmail.com](mailto:takiet248@gmai.com)  
 
 ## ⚡ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
